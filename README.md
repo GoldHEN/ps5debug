@@ -7,7 +7,7 @@ The API is unchanged from `ps4debug`, so `libdebug` should still work.
 ### :warning: Warnings
 
 ps5debug is currently an experimental beta and not everything works. Please use it with caution.
-Please report any issues to the [GoldHEN Discord](https://discord.gg/mpBMcm8n).
+Please report any issues to the [GoldHEN Discord](https://discord.gg/pR5NTEVBGt).
 
 ### Quickstart Guide
 1. Download `Debug Watch` or another debugging tool.
