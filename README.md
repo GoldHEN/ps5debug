@@ -53,7 +53,7 @@ Please report any issues to the [GoldHEN Discord](https://discord.gg/mpBMcm8n).
 ### MultiTrainer II
 - Working with PS4 and PS5 games with some issues:
   - Some code caves that rely on ASLR do not work.
-- Patched to work with both types of json cheats, with aslr diabled.
+- Patched to work with both types of json cheats, with aslr enabled.
 - Fixed version will be released shortly.
 
 ### Original Reaper
