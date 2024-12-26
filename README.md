@@ -114,7 +114,7 @@ Greeting to QA/Testers: (alphabetical order)
 - [Hejran7](https://www.youtube.com/@BabaAlloush)
 - [Pharaoh2k](https://github.com/Pharaoh2k)
 
-Changlog
+Changelog
 - v1.0b1
   - initial release
 - v1.0b2
