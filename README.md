@@ -72,16 +72,16 @@ Please report any issues to the [GoldHEN Discord](https://discord.gg/pR5NTEVBGt)
 
 ## Current status with tools
 
-### Reaper Studio
+### Reaper Studio - Debugger, Trainer creator.
 - Working.
 
-### MultiTrainer II
+### MultiTrainer II - Cheat/Trainer Loader
 - Working
 
-### Original Reaper
+### Original Reaper - Debugger, Trainer creater.
 - Working
 
-### PS4 Cheater
+### PS4 Cheater - Memory scanner/viewer.
 - Working
 
 ### Credits
@@ -114,7 +114,7 @@ Greeting to QA/Testers: (alphabetical order)
 - [Hejran7](https://www.youtube.com/@BabaAlloush)
 - [Pharaoh2k](https://github.com/Pharaoh2k)
 
-Changlog
+### Changelog:
 - v1.0b1
   - initial release
 - v1.0b2
