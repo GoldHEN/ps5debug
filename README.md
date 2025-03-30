@@ -14,7 +14,7 @@ This is a debugger for the PlayStation 5. Yes that's right!
 
 The API is unchanged from `ps4debug`, so `libdebug` should still work.
 
-Latest version: `v1.0b2`
+Latest version: `v1.0b3`
 
 ### :warning: Warnings
 
@@ -127,4 +127,6 @@ Greeting to QA/Testers: (alphabetical order)
   - Added support for 9021 elf loader.
   - Implemented hardware breakpoints.
   - Optimisations for kstuff.
+- v1.0b3
+  - Added support for 5.xx kdata offset change.
 
