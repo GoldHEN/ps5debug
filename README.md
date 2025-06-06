@@ -16,8 +16,6 @@ The API is unchanged from `ps4debug`, so `libdebug` should still work.
 
 Latest version: `v1.0b4`
 
-### :warning: Warnings
-
 Please report any issues to the [GoldHEN Discord](https://discord.gg/pR5NTEVBGt).
 
 ### Quickstart Guide
