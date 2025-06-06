@@ -55,7 +55,7 @@ Please report any issues to the [GoldHEN Discord](https://discord.gg/pR5NTEVBGt)
         uint64_t address;
     } __attribute__((packed));
     ```
-  - `CMD_CONSOLE_VERSION`(`0xBD000502`) - Returns 4 for PS5 and 5 for PS5.
+  - `CMD_CONSOLE_VERSION`(`0xBD000502`) - Returns 4 for PS4 and 5 for PS5.
     ```
     struct cmd_proc_console_version_packet {
         uint32_t pid;
