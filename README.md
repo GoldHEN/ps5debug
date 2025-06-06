@@ -18,7 +18,6 @@ Latest version: `v1.0b4`
 
 ### :warning: Warnings
 
-ps5debug is currently an experimental beta and not everything works. Please use it with caution.
 Please report any issues to the [GoldHEN Discord](https://discord.gg/pR5NTEVBGt).
 
 ### Quickstart Guide
