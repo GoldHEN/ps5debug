@@ -14,7 +14,7 @@ This is a debugger for the PlayStation 5. Yes that's right!
 
 The API is unchanged from `ps4debug`, so `libdebug` should still work.
 
-Latest version: `v1.0b3`
+Latest version: `v1.0b4`
 
 ### :warning: Warnings
 
@@ -40,6 +40,7 @@ Please report any issues to the [GoldHEN Discord](https://discord.gg/pR5NTEVBGt)
     - `3.xx`,
     - `4.xx`,
     - `5.xx`,
+    - `6.xx`,
   - Rest mode support.
   - Console scanner.
   - `klog` server on port `3232`.
@@ -113,6 +114,7 @@ Greeting to QA/Testers: (alphabetical order)
 - [Echo Stretch](https://twitter.com/StretchEcho)
 - [Hejran7](https://www.youtube.com/@BabaAlloush)
 - [Pharaoh2k](https://github.com/Pharaoh2k)
+- [Marcus André](https://github.com/marcussacana)
 
 ### Changelog:
 - v1.0b1
@@ -129,4 +131,5 @@ Greeting to QA/Testers: (alphabetical order)
   - Optimisations for kstuff.
 - v1.0b3
   - Added support for 5.xx kdata offset change.
-
+- v1.0b4
+  - Added support for 6.xx
